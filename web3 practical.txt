@@ -1,0 +1,10 @@
+1.What is web3.js?
+ Web3.js is a library collection that aloows you to interact with a local or remote Ethereum node using HTTP,IPC or Websocket.
+
+2. How web 3 is different from web2?
+
+Web 2 is the current internet period, starting from 2004, when websites became more interactive , allowing users to create their content. Web 2 is when the Internet Developed into a more open accesible and mionetizable platform. People could earn money through web2. It opened up inumerable job opportunities.
+Web 3 is turing complete, meaning anyone can program anything. No need for permissions and no denial of access. No denial of payments as crypto is accepted everywhere, unlike some companies that prefer online banking.
+
+
+
